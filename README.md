@@ -15,6 +15,9 @@ Whether you work in an organization that uses test-driven development or in an o
 
 You will learn how to use Jasmine to write a number of tests against a pre-existing application. These will test the underlying business logic of the application as well as the event handling and DOM manipulation.
 
+# What Did I learn?
+
+Using the test suite Jasmine is fun and easy. It is straight forward enough to not over complicate things.
 
 ## How will this help my career?
 
@@ -31,7 +34,5 @@ Created 4 tests suites in feedreader.js.
         Checks the loadFeed function in app.js to see if has brought back at least 1 entry when the page is loaded
         check when calling for new content that new content is actually replacing the old content.
         
-# What Did I learn?
 
-Using the test suite Jasmine is fun and easy. It is straight forward enough to not over complicate things.
         
