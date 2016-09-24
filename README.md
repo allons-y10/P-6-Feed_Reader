@@ -27,12 +27,12 @@ Using the test suite Jasmine is fun and easy. It is straight forward enough to n
 
 # Tests Created
 
-Created 4 tests suites in feedreader.js.
+### Created 4 tests suites in feedreader.js.
   Tests:
-        Checks if RSS feed are present, have URL's, and Names
-        Checks the default mode of the menu is hidden and that it changes when clicked
-        Checks the loadFeed function in app.js to see if has brought back at least 1 entry when the page is loaded
-        check when calling for new content that new content is actually replacing the old content.
+        1.Checks if RSS feed are present, have URL's, and Names
+        2.Checks the default mode of the menu is hidden and that it changes when clicked
+        3.Checks the loadFeed function in app.js to see if has brought back at least 1 entry when the page is loaded
+        4.check when calling for new content that new content is actually replacing the old content.
         
 
         
