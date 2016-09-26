@@ -24,6 +24,13 @@ Using the test suite Jasmine is fun and easy. It is straight forward enough to n
 * Writing effective tests requires analyzing multiple aspects of an application including the HTML, CSS and JavaScript - an extremely important skill when changing teams or joining a new company.
 * Good tests give you the ability to quickly analyze whether new code breaks an existing feature within your codebase, without having to manually test all of the functionality.
 
+# To run the App
+
+  1. Download or clone this repository
+  2. Open the index.html file in you favourite browser.
+  3. If you would like to add tests then open the jasmine folder, Then the spec folder, Then run the feedReader.js file in your favourite      text editor and add or subtract tests.
+     -or-
+     Click the Project link in the above description.
 
 # Tests Created
 
