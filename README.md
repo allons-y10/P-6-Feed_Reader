@@ -31,7 +31,8 @@ Using the test suite Jasmine is fun and easy. It is straight forward enough to n
   3. If you would like to add tests then open the jasmine folder, Then the spec folder, Then run the feedReader.js file in your favourite      text editor and add or subtract tests.
      
      -or-
-     Click the Project link in the above description.
+     
+   Click the Project link in the above description.
 
 # Tests Created
 
