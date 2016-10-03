@@ -24,7 +24,7 @@ Using the test suite Jasmine is fun and easy. It is straight forward enough to n
 * Writing effective tests requires analyzing multiple aspects of an application including the HTML, CSS and JavaScript - an extremely important skill when changing teams or joining a new company.
 * Good tests give you the ability to quickly analyze whether new code breaks an existing feature within your codebase, without having to manually test all of the functionality.
 
-# To run the App
+# How to run the App
 
   1. Download or clone this repository
   2. Open the index.html file in you favourite browser.
